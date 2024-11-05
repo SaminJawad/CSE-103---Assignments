@@ -12,7 +12,7 @@ This repository contains the solutions to some intermediate arithmetic problems,
 5. Three Digit Number Separation : Input a three digit number,show the numbers separately.
 # How to Use
 Clone the repository: 
-git clone https://github.com/YourUsername/RepositoryName.git
+git clone https://github.com/SaminJawad/RepositoryName.git
 
 # Navigate to the folder for each problem and compile the code using a C compiler. For example:
 gcc Problem1.c -o Problem1 ./Problem1
