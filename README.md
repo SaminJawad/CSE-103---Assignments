@@ -10,13 +10,7 @@ This repository contains the solutions to some intermediate arithmetic problems,
 3. Taxi Bill : Input hour and minute,calculate the totall bill.
 4. Cylinder Volume Calculation : Input radius and height, calculate the volume.
 5. Three Digit Number Separation : Input a three digit number,show the numbers separately.
-# How to Use
-Clone the repository: 
-```bash
-git clone https://github.com/SaminJawad/RepositoryName.git
 
-# Navigate to the folder for each problem and compile the code using a C compiler. For example:
-gcc Problem1.c -o Problem1 ./Problem1
 
 # About
 These solutions are designed for foundational practice with C programming. They showcase intermediate arithmetic operations and demonstrate how to work with variables, user input, and calculations.
